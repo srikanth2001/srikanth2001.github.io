@@ -5069,3 +5069,10 @@ html {
 .button1:focus {
   outline: none !important;
 }
+.EduName:hover{
+  text-decoration: none;
+}
+.EduName{
+  text-decoration: none;
+  color: black;
+}
